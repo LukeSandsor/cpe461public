@@ -1,0 +1,21 @@
+{
+  "name": "com.lsandsor.cpe461serialplotter",
+  "version": "0.0.1",
+  "displayName": "SerialVR Package Example",
+  "description": "This is an example package",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://github.com/LukeSandsor/cpe461public",
+  "dependencies": {
+ },
+ "keywords": [
+    "Virtual Reality",
+    "Serial Communication",
+    "Bluetooth"
+  ],
+  "author": {
+    "name": "Luke Sandsor",
+    "email": "lsandsor@calpoly.edu",
+    "url": "https://github.com/LukeSandsor/"
+  }
+}
